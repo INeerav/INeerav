@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=INeerav.INeerav">
 
 <h1 align="center">Hello there!</h1>
-<h3 align="center">Just a software engineer, "delving" into software things...</h3>
+<h3 align="center">...</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=INeerav" alt="INeerav" /></a> </p>
 
